@@ -28,9 +28,9 @@ python run.py
 
 ## Скачать готовый установщик (Windows)
 
-Актуальный установщик доступен в разделе **Releases** этого репозитория:
+Актуальная версия для Windows доступна в [Releases](https://github.com/VSklyarov/pool_simulator/releases/tag/v0.1.0):
 
-- `PoolSimulator_Setup_0.1.0.exe`
+- [PoolSimulator_Setup_0.1.0.exe](https://github.com/VSklyarov/pool_simulator/releases/download/v0.1.0/PoolSimulator_Setup_0.1.0.exe)
 
 Установка занимает 1-2 минуты и не требует установленного Python.
 
