@@ -1,0 +1,15 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Build artifacts
+build/
+dist/
+installer_output/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+
+data/

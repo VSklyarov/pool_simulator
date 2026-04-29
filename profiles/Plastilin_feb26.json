@@ -1,0 +1,165 @@
+{
+  "name": "Plastilin_feb26",
+  "entries": [
+    {
+      "poker_room": "Winamax",
+      "reservation": "COM",
+      "buyin": 2.0,
+      "tournament_type": "nitro",
+      "ev_formula": "AvgEV",
+      "n_tourneys": 136358,
+      "participations": [
+        0.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "is_default_participation": false
+    },
+    {
+      "poker_room": "Winamax",
+      "reservation": "COM",
+      "buyin": 5.0,
+      "tournament_type": "nitro",
+      "ev_formula": "AvgEV",
+      "n_tourneys": 657466,
+      "participations": [
+        0.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "is_default_participation": false
+    },
+    {
+      "poker_room": "Winamax",
+      "reservation": "COM",
+      "buyin": 10.0,
+      "tournament_type": "nitro",
+      "ev_formula": "AvgEV",
+      "n_tourneys": 616921,
+      "participations": [
+        0.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "is_default_participation": false
+    },
+    {
+      "poker_room": "Winamax",
+      "reservation": "COM",
+      "buyin": 25.0,
+      "tournament_type": "nitro",
+      "ev_formula": "AvgEV",
+      "n_tourneys": 506107,
+      "participations": [
+        0.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "is_default_participation": false
+    },
+    {
+      "poker_room": "Winamax",
+      "reservation": "COM",
+      "buyin": 50.0,
+      "tournament_type": "nitro",
+      "ev_formula": "AvgEV",
+      "n_tourneys": 135024,
+      "participations": [
+        0.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "is_default_participation": false
+    },
+    {
+      "poker_room": "Winamax",
+      "reservation": "COM",
+      "buyin": 100.0,
+      "tournament_type": "nitro",
+      "ev_formula": "AvgEV",
+      "n_tourneys": 78899,
+      "participations": [
+        0.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "is_default_participation": false
+    },
+    {
+      "poker_room": "Winamax",
+      "reservation": "COM",
+      "buyin": 250.0,
+      "tournament_type": "nitro",
+      "ev_formula": "AvgEV",
+      "n_tourneys": 4826,
+      "participations": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "is_default_participation": true
+    },
+    {
+      "poker_room": "Winamax",
+      "reservation": "COM",
+      "buyin": 500.0,
+      "tournament_type": "nitro",
+      "ev_formula": "AvgEV",
+      "n_tourneys": 1617,
+      "participations": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "is_default_participation": true
+    }
+  ]
+}

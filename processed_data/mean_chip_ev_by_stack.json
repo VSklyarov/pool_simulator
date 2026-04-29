@@ -1,0 +1,1514 @@
+{
+  "17_500": {
+    "tourney_id": 17,
+    "stack_size": 500,
+    "mean_chip_ev": 26.15,
+    "median_chip_ev": -19.11,
+    "std_chip_ev": 375.74,
+    "n_observations": 22578,
+    "has_variable_stacks": false
+  },
+  "18_500": {
+    "tourney_id": 18,
+    "stack_size": 500,
+    "mean_chip_ev": 34.01,
+    "median_chip_ev": -15.21,
+    "std_chip_ev": 388.42,
+    "n_observations": 109645,
+    "has_variable_stacks": false
+  },
+  "19_500": {
+    "tourney_id": 19,
+    "stack_size": 500,
+    "mean_chip_ev": 39.93,
+    "median_chip_ev": -10.41,
+    "std_chip_ev": 388.66,
+    "n_observations": 189772,
+    "has_variable_stacks": false
+  },
+  "20_500": {
+    "tourney_id": 20,
+    "stack_size": 500,
+    "mean_chip_ev": 49.56,
+    "median_chip_ev": -0.25,
+    "std_chip_ev": 396.11,
+    "n_observations": 290457,
+    "has_variable_stacks": false
+  },
+  "21_500": {
+    "tourney_id": 21,
+    "stack_size": 500,
+    "mean_chip_ev": 58.61,
+    "median_chip_ev": 10.18,
+    "std_chip_ev": 389.68,
+    "n_observations": 340309,
+    "has_variable_stacks": false
+  },
+  "22_500": {
+    "tourney_id": 22,
+    "stack_size": 500,
+    "mean_chip_ev": 134.07,
+    "median_chip_ev": 93.63,
+    "std_chip_ev": 409.2,
+    "n_observations": 275,
+    "has_variable_stacks": false
+  },
+  "47_500": {
+    "tourney_id": 47,
+    "stack_size": 500,
+    "mean_chip_ev": 34.87,
+    "median_chip_ev": -17.11,
+    "std_chip_ev": 405.78,
+    "n_observations": 18793,
+    "has_variable_stacks": false
+  },
+  "178_500": {
+    "tourney_id": 178,
+    "stack_size": 500,
+    "mean_chip_ev": 26.01,
+    "median_chip_ev": -32.09,
+    "std_chip_ev": 415.38,
+    "n_observations": 1802,
+    "has_variable_stacks": false
+  },
+  "179_500": {
+    "tourney_id": 179,
+    "stack_size": 500,
+    "mean_chip_ev": 44.52,
+    "median_chip_ev": -4.29,
+    "std_chip_ev": 409.95,
+    "n_observations": 2494,
+    "has_variable_stacks": false
+  },
+  "180_500": {
+    "tourney_id": 180,
+    "stack_size": 500,
+    "mean_chip_ev": 33.96,
+    "median_chip_ev": -26.73,
+    "std_chip_ev": 418.29,
+    "n_observations": 72390,
+    "has_variable_stacks": false
+  },
+  "181_500": {
+    "tourney_id": 181,
+    "stack_size": 500,
+    "mean_chip_ev": 47.7,
+    "median_chip_ev": -7.8,
+    "std_chip_ev": 409.14,
+    "n_observations": 54484,
+    "has_variable_stacks": false
+  },
+  "182_500": {
+    "tourney_id": 182,
+    "stack_size": 500,
+    "mean_chip_ev": 64.05,
+    "median_chip_ev": 3.08,
+    "std_chip_ev": 417.44,
+    "n_observations": 49924,
+    "has_variable_stacks": false
+  },
+  "183_500": {
+    "tourney_id": 183,
+    "stack_size": 500,
+    "mean_chip_ev": 69.61,
+    "median_chip_ev": 21.16,
+    "std_chip_ev": 417.68,
+    "n_observations": 10180,
+    "has_variable_stacks": false
+  },
+  "185_500": {
+    "tourney_id": 185,
+    "stack_size": 500,
+    "mean_chip_ev": -619.75,
+    "median_chip_ev": -619.75,
+    "std_chip_ev": 0.0,
+    "n_observations": 1,
+    "has_variable_stacks": false
+  },
+  "219_500": {
+    "tourney_id": 219,
+    "stack_size": 500,
+    "mean_chip_ev": -17.62,
+    "median_chip_ev": -49.34,
+    "std_chip_ev": 382.17,
+    "n_observations": 52,
+    "has_variable_stacks": false
+  },
+  "298_500": {
+    "tourney_id": 298,
+    "stack_size": 500,
+    "mean_chip_ev": 67.45,
+    "median_chip_ev": 23.54,
+    "std_chip_ev": 380.32,
+    "n_observations": 63054,
+    "has_variable_stacks": false
+  },
+  "331_300": {
+    "tourney_id": 331,
+    "stack_size": 300,
+    "mean_chip_ev": 33.49,
+    "median_chip_ev": 12.83,
+    "std_chip_ev": 193.17,
+    "n_observations": 3717,
+    "has_variable_stacks": false
+  },
+  "332_300": {
+    "tourney_id": 332,
+    "stack_size": 300,
+    "mean_chip_ev": 31.17,
+    "median_chip_ev": 14.35,
+    "std_chip_ev": 190.51,
+    "n_observations": 232254,
+    "has_variable_stacks": false
+  },
+  "333_300": {
+    "tourney_id": 333,
+    "stack_size": 300,
+    "mean_chip_ev": 25.33,
+    "median_chip_ev": 6.28,
+    "std_chip_ev": 196.04,
+    "n_observations": 968366,
+    "has_variable_stacks": false
+  },
+  "334_300": {
+    "tourney_id": 334,
+    "stack_size": 300,
+    "mean_chip_ev": 19.88,
+    "median_chip_ev": 1.59,
+    "std_chip_ev": 197.17,
+    "n_observations": 589360,
+    "has_variable_stacks": false
+  },
+  "335_300": {
+    "tourney_id": 335,
+    "stack_size": 300,
+    "mean_chip_ev": 13.81,
+    "median_chip_ev": -4.31,
+    "std_chip_ev": 192.55,
+    "n_observations": 335818,
+    "has_variable_stacks": false
+  },
+  "336_300": {
+    "tourney_id": 336,
+    "stack_size": 300,
+    "mean_chip_ev": 14.57,
+    "median_chip_ev": -4.26,
+    "std_chip_ev": 195.99,
+    "n_observations": 429852,
+    "has_variable_stacks": false
+  },
+  "337_300": {
+    "tourney_id": 337,
+    "stack_size": 300,
+    "mean_chip_ev": 14.27,
+    "median_chip_ev": -5.29,
+    "std_chip_ev": 204.16,
+    "n_observations": 76177,
+    "has_variable_stacks": false
+  },
+  "338_300": {
+    "tourney_id": 338,
+    "stack_size": 300,
+    "mean_chip_ev": 15.8,
+    "median_chip_ev": -3.29,
+    "std_chip_ev": 202.61,
+    "n_observations": 77258,
+    "has_variable_stacks": false
+  },
+  "353_300": {
+    "tourney_id": 353,
+    "stack_size": 300,
+    "mean_chip_ev": 52.87,
+    "median_chip_ev": 27.09,
+    "std_chip_ev": 209.89,
+    "n_observations": 1736,
+    "has_variable_stacks": false
+  },
+  "354_300": {
+    "tourney_id": 354,
+    "stack_size": 300,
+    "mean_chip_ev": 27.59,
+    "median_chip_ev": 10.87,
+    "std_chip_ev": 195.87,
+    "n_observations": 6465,
+    "has_variable_stacks": false
+  },
+  "355_300": {
+    "tourney_id": 355,
+    "stack_size": 300,
+    "mean_chip_ev": 19.66,
+    "median_chip_ev": 0.95,
+    "std_chip_ev": 194.24,
+    "n_observations": 263907,
+    "has_variable_stacks": false
+  },
+  "357_300": {
+    "tourney_id": 357,
+    "stack_size": 300,
+    "mean_chip_ev": 18.32,
+    "median_chip_ev": 1.18,
+    "std_chip_ev": 187.31,
+    "n_observations": 101544,
+    "has_variable_stacks": false
+  },
+  "358_300": {
+    "tourney_id": 358,
+    "stack_size": 300,
+    "mean_chip_ev": 16.88,
+    "median_chip_ev": -2.25,
+    "std_chip_ev": 193.41,
+    "n_observations": 145490,
+    "has_variable_stacks": false
+  },
+  "359_300": {
+    "tourney_id": 359,
+    "stack_size": 300,
+    "mean_chip_ev": 11.58,
+    "median_chip_ev": -6.6,
+    "std_chip_ev": 189.99,
+    "n_observations": 49571,
+    "has_variable_stacks": false
+  },
+  "360_300": {
+    "tourney_id": 360,
+    "stack_size": 300,
+    "mean_chip_ev": 13.6,
+    "median_chip_ev": -6.65,
+    "std_chip_ev": 192.35,
+    "n_observations": 17249,
+    "has_variable_stacks": false
+  },
+  "405_300": {
+    "tourney_id": 405,
+    "stack_size": 300,
+    "mean_chip_ev": -18.5,
+    "median_chip_ev": -27.55,
+    "std_chip_ev": 182.71,
+    "n_observations": 138,
+    "has_variable_stacks": false
+  },
+  "406_300": {
+    "tourney_id": 406,
+    "stack_size": 300,
+    "mean_chip_ev": -9.94,
+    "median_chip_ev": -37.77,
+    "std_chip_ev": 187.13,
+    "n_observations": 3,
+    "has_variable_stacks": false
+  },
+  "425_300": {
+    "tourney_id": 425,
+    "stack_size": 300,
+    "mean_chip_ev": -0.9,
+    "median_chip_ev": -10.78,
+    "std_chip_ev": 181.7,
+    "n_observations": 388,
+    "has_variable_stacks": false
+  },
+  "427_300": {
+    "tourney_id": 427,
+    "stack_size": 300,
+    "mean_chip_ev": 36.11,
+    "median_chip_ev": 21.37,
+    "std_chip_ev": 200.2,
+    "n_observations": 5246,
+    "has_variable_stacks": false
+  },
+  "457_500": {
+    "tourney_id": 457,
+    "stack_size": 500,
+    "mean_chip_ev": 40.92,
+    "median_chip_ev": -10.11,
+    "std_chip_ev": 400.7,
+    "n_observations": 4846,
+    "has_variable_stacks": false
+  },
+  "458_300": {
+    "tourney_id": 458,
+    "stack_size": 300,
+    "mean_chip_ev": 14.36,
+    "median_chip_ev": -4.34,
+    "std_chip_ev": 201.18,
+    "n_observations": 23942,
+    "has_variable_stacks": false
+  },
+  "478_300": {
+    "tourney_id": 478,
+    "stack_size": 300,
+    "mean_chip_ev": 19.84,
+    "median_chip_ev": 1.01,
+    "std_chip_ev": 207.27,
+    "n_observations": 10856,
+    "has_variable_stacks": true
+  },
+  "478_500": {
+    "tourney_id": 478,
+    "stack_size": 500,
+    "mean_chip_ev": 37.9,
+    "median_chip_ev": 0.84,
+    "std_chip_ev": 410.4,
+    "n_observations": 941,
+    "has_variable_stacks": true
+  },
+  "479_300": {
+    "tourney_id": 479,
+    "stack_size": 300,
+    "mean_chip_ev": 19.39,
+    "median_chip_ev": -1.01,
+    "std_chip_ev": 199.02,
+    "n_observations": 26323,
+    "has_variable_stacks": true
+  },
+  "479_500": {
+    "tourney_id": 479,
+    "stack_size": 500,
+    "mean_chip_ev": 47.2,
+    "median_chip_ev": -18.67,
+    "std_chip_ev": 401.65,
+    "n_observations": 2141,
+    "has_variable_stacks": true
+  },
+  "479_800": {
+    "tourney_id": 479,
+    "stack_size": 800,
+    "mean_chip_ev": 673.67,
+    "median_chip_ev": 617.96,
+    "std_chip_ev": 393.13,
+    "n_observations": 3,
+    "has_variable_stacks": true
+  },
+  "480_300": {
+    "tourney_id": 480,
+    "stack_size": 300,
+    "mean_chip_ev": 17.72,
+    "median_chip_ev": -2.93,
+    "std_chip_ev": 196.54,
+    "n_observations": 65164,
+    "has_variable_stacks": true
+  },
+  "480_500": {
+    "tourney_id": 480,
+    "stack_size": 500,
+    "mean_chip_ev": 34.67,
+    "median_chip_ev": -22.7,
+    "std_chip_ev": 397.3,
+    "n_observations": 5284,
+    "has_variable_stacks": true
+  },
+  "480_800": {
+    "tourney_id": 480,
+    "stack_size": 800,
+    "mean_chip_ev": -254.0,
+    "median_chip_ev": -321.78,
+    "std_chip_ev": 646.88,
+    "n_observations": 8,
+    "has_variable_stacks": true
+  },
+  "481_300": {
+    "tourney_id": 481,
+    "stack_size": 300,
+    "mean_chip_ev": 15.11,
+    "median_chip_ev": -5.97,
+    "std_chip_ev": 205.09,
+    "n_observations": 152864,
+    "has_variable_stacks": true
+  },
+  "481_500": {
+    "tourney_id": 481,
+    "stack_size": 500,
+    "mean_chip_ev": 35.69,
+    "median_chip_ev": -22.65,
+    "std_chip_ev": 418.28,
+    "n_observations": 12472,
+    "has_variable_stacks": true
+  },
+  "481_800": {
+    "tourney_id": 481,
+    "stack_size": 800,
+    "mean_chip_ev": 118.88,
+    "median_chip_ev": -170.45,
+    "std_chip_ev": 843.64,
+    "n_observations": 14,
+    "has_variable_stacks": true
+  },
+  "482_300": {
+    "tourney_id": 482,
+    "stack_size": 300,
+    "mean_chip_ev": 11.59,
+    "median_chip_ev": -7.99,
+    "std_chip_ev": 199.05,
+    "n_observations": 278183,
+    "has_variable_stacks": true
+  },
+  "482_500": {
+    "tourney_id": 482,
+    "stack_size": 500,
+    "mean_chip_ev": 22.88,
+    "median_chip_ev": -33.31,
+    "std_chip_ev": 406.46,
+    "n_observations": 22243,
+    "has_variable_stacks": true
+  },
+  "482_800": {
+    "tourney_id": 482,
+    "stack_size": 800,
+    "mean_chip_ev": 169.94,
+    "median_chip_ev": 74.79,
+    "std_chip_ev": 868.19,
+    "n_observations": 37,
+    "has_variable_stacks": true
+  },
+  "483_300": {
+    "tourney_id": 483,
+    "stack_size": 300,
+    "mean_chip_ev": 6.7,
+    "median_chip_ev": -12.95,
+    "std_chip_ev": 197.21,
+    "n_observations": 244552,
+    "has_variable_stacks": true
+  },
+  "483_500": {
+    "tourney_id": 483,
+    "stack_size": 500,
+    "mean_chip_ev": 20.37,
+    "median_chip_ev": -39.13,
+    "std_chip_ev": 415.67,
+    "n_observations": 19537,
+    "has_variable_stacks": true
+  },
+  "483_800": {
+    "tourney_id": 483,
+    "stack_size": 800,
+    "mean_chip_ev": -37.56,
+    "median_chip_ev": -65.17,
+    "std_chip_ev": 815.95,
+    "n_observations": 38,
+    "has_variable_stacks": true
+  },
+  "484_300": {
+    "tourney_id": 484,
+    "stack_size": 300,
+    "mean_chip_ev": 8.92,
+    "median_chip_ev": -11.62,
+    "std_chip_ev": 200.37,
+    "n_observations": 198904,
+    "has_variable_stacks": true
+  },
+  "484_500": {
+    "tourney_id": 484,
+    "stack_size": 500,
+    "mean_chip_ev": 20.13,
+    "median_chip_ev": -40.27,
+    "std_chip_ev": 408.52,
+    "n_observations": 16427,
+    "has_variable_stacks": true
+  },
+  "484_800": {
+    "tourney_id": 484,
+    "stack_size": 800,
+    "mean_chip_ev": -128.52,
+    "median_chip_ev": -188.76,
+    "std_chip_ev": 781.19,
+    "n_observations": 26,
+    "has_variable_stacks": true
+  },
+  "484_1000": {
+    "tourney_id": 484,
+    "stack_size": 1000,
+    "mean_chip_ev": -374.72,
+    "median_chip_ev": -374.72,
+    "std_chip_ev": 762.23,
+    "n_observations": 2,
+    "has_variable_stacks": true
+  },
+  "485_300": {
+    "tourney_id": 485,
+    "stack_size": 300,
+    "mean_chip_ev": 3.86,
+    "median_chip_ev": -14.27,
+    "std_chip_ev": 192.49,
+    "n_observations": 186034,
+    "has_variable_stacks": true
+  },
+  "485_500": {
+    "tourney_id": 485,
+    "stack_size": 500,
+    "mean_chip_ev": 11.37,
+    "median_chip_ev": -43.72,
+    "std_chip_ev": 393.26,
+    "n_observations": 15041,
+    "has_variable_stacks": true
+  },
+  "485_800": {
+    "tourney_id": 485,
+    "stack_size": 800,
+    "mean_chip_ev": 85.48,
+    "median_chip_ev": -213.27,
+    "std_chip_ev": 685.35,
+    "n_observations": 29,
+    "has_variable_stacks": true
+  },
+  "485_1000": {
+    "tourney_id": 485,
+    "stack_size": 1000,
+    "mean_chip_ev": 155.76,
+    "median_chip_ev": -256.11,
+    "std_chip_ev": 1093.23,
+    "n_observations": 3,
+    "has_variable_stacks": true
+  },
+  "548_500": {
+    "tourney_id": 548,
+    "stack_size": 500,
+    "mean_chip_ev": 80.98,
+    "median_chip_ev": 21.43,
+    "std_chip_ev": 248.07,
+    "n_observations": 5,
+    "has_variable_stacks": false
+  },
+  "549_300": {
+    "tourney_id": 549,
+    "stack_size": 300,
+    "mean_chip_ev": 37.7,
+    "median_chip_ev": 21.25,
+    "std_chip_ev": 193.05,
+    "n_observations": 3263,
+    "has_variable_stacks": false
+  },
+  "563_500": {
+    "tourney_id": 563,
+    "stack_size": 500,
+    "mean_chip_ev": 17.45,
+    "median_chip_ev": -31.66,
+    "std_chip_ev": 388.05,
+    "n_observations": 16345,
+    "has_variable_stacks": false
+  },
+  "564_500": {
+    "tourney_id": 564,
+    "stack_size": 500,
+    "mean_chip_ev": 25.6,
+    "median_chip_ev": -26.07,
+    "std_chip_ev": 394.73,
+    "n_observations": 43732,
+    "has_variable_stacks": false
+  },
+  "565_500": {
+    "tourney_id": 565,
+    "stack_size": 500,
+    "mean_chip_ev": 29.85,
+    "median_chip_ev": -22.83,
+    "std_chip_ev": 408.89,
+    "n_observations": 77125,
+    "has_variable_stacks": false
+  },
+  "566_500": {
+    "tourney_id": 566,
+    "stack_size": 500,
+    "mean_chip_ev": 30.53,
+    "median_chip_ev": -24.38,
+    "std_chip_ev": 406.03,
+    "n_observations": 160090,
+    "has_variable_stacks": false
+  },
+  "567_500": {
+    "tourney_id": 567,
+    "stack_size": 500,
+    "mean_chip_ev": 35.89,
+    "median_chip_ev": -19.06,
+    "std_chip_ev": 403.76,
+    "n_observations": 292209,
+    "has_variable_stacks": false
+  },
+  "568_500": {
+    "tourney_id": 568,
+    "stack_size": 500,
+    "mean_chip_ev": 38.53,
+    "median_chip_ev": -11.61,
+    "std_chip_ev": 396.74,
+    "n_observations": 393486,
+    "has_variable_stacks": false
+  },
+  "569_500": {
+    "tourney_id": 569,
+    "stack_size": 500,
+    "mean_chip_ev": 52.14,
+    "median_chip_ev": 4.86,
+    "std_chip_ev": 407.05,
+    "n_observations": 113432,
+    "has_variable_stacks": false
+  },
+  "570_500": {
+    "tourney_id": 570,
+    "stack_size": 500,
+    "mean_chip_ev": 47.45,
+    "median_chip_ev": 6.92,
+    "std_chip_ev": 391.81,
+    "n_observations": 30438,
+    "has_variable_stacks": false
+  },
+  "573_500": {
+    "tourney_id": 573,
+    "stack_size": 500,
+    "mean_chip_ev": 26.49,
+    "median_chip_ev": -21.69,
+    "std_chip_ev": 373.41,
+    "n_observations": 836,
+    "has_variable_stacks": false
+  },
+  "575_500": {
+    "tourney_id": 575,
+    "stack_size": 500,
+    "mean_chip_ev": 22.63,
+    "median_chip_ev": -24.61,
+    "std_chip_ev": 373.05,
+    "n_observations": 6574,
+    "has_variable_stacks": false
+  },
+  "576_500": {
+    "tourney_id": 576,
+    "stack_size": 500,
+    "mean_chip_ev": 36.04,
+    "median_chip_ev": -11.0,
+    "std_chip_ev": 380.17,
+    "n_observations": 46096,
+    "has_variable_stacks": false
+  },
+  "577_500": {
+    "tourney_id": 577,
+    "stack_size": 500,
+    "mean_chip_ev": 38.29,
+    "median_chip_ev": -13.32,
+    "std_chip_ev": 394.68,
+    "n_observations": 23434,
+    "has_variable_stacks": false
+  },
+  "578_500": {
+    "tourney_id": 578,
+    "stack_size": 500,
+    "mean_chip_ev": 48.32,
+    "median_chip_ev": 2.76,
+    "std_chip_ev": 379.3,
+    "n_observations": 59792,
+    "has_variable_stacks": false
+  },
+  "579_500": {
+    "tourney_id": 579,
+    "stack_size": 500,
+    "mean_chip_ev": 54.35,
+    "median_chip_ev": 10.96,
+    "std_chip_ev": 379.42,
+    "n_observations": 46901,
+    "has_variable_stacks": false
+  },
+  "580_500": {
+    "tourney_id": 580,
+    "stack_size": 500,
+    "mean_chip_ev": 87.8,
+    "median_chip_ev": 45.35,
+    "std_chip_ev": 398.72,
+    "n_observations": 7816,
+    "has_variable_stacks": false
+  },
+  "581_500": {
+    "tourney_id": 581,
+    "stack_size": 500,
+    "mean_chip_ev": 179.96,
+    "median_chip_ev": 166.39,
+    "std_chip_ev": 425.0,
+    "n_observations": 14,
+    "has_variable_stacks": false
+  },
+  "582_500": {
+    "tourney_id": 582,
+    "stack_size": 500,
+    "mean_chip_ev": 18.76,
+    "median_chip_ev": -33.24,
+    "std_chip_ev": 389.38,
+    "n_observations": 27235,
+    "has_variable_stacks": false
+  },
+  "583_500": {
+    "tourney_id": 583,
+    "stack_size": 500,
+    "mean_chip_ev": 30.8,
+    "median_chip_ev": -20.92,
+    "std_chip_ev": 403.41,
+    "n_observations": 45512,
+    "has_variable_stacks": false
+  },
+  "584_500": {
+    "tourney_id": 584,
+    "stack_size": 500,
+    "mean_chip_ev": 28.64,
+    "median_chip_ev": -19.09,
+    "std_chip_ev": 382.94,
+    "n_observations": 151741,
+    "has_variable_stacks": false
+  },
+  "585_500": {
+    "tourney_id": 585,
+    "stack_size": 500,
+    "mean_chip_ev": 35.79,
+    "median_chip_ev": -17.72,
+    "std_chip_ev": 399.34,
+    "n_observations": 208255,
+    "has_variable_stacks": false
+  },
+  "586_500": {
+    "tourney_id": 586,
+    "stack_size": 500,
+    "mean_chip_ev": 37.52,
+    "median_chip_ev": -15.23,
+    "std_chip_ev": 399.59,
+    "n_observations": 263358,
+    "has_variable_stacks": false
+  },
+  "587_500": {
+    "tourney_id": 587,
+    "stack_size": 500,
+    "mean_chip_ev": 47.75,
+    "median_chip_ev": -5.42,
+    "std_chip_ev": 410.73,
+    "n_observations": 85859,
+    "has_variable_stacks": false
+  },
+  "588_500": {
+    "tourney_id": 588,
+    "stack_size": 500,
+    "mean_chip_ev": 50.42,
+    "median_chip_ev": 9.1,
+    "std_chip_ev": 389.12,
+    "n_observations": 1027,
+    "has_variable_stacks": false
+  },
+  "589_500": {
+    "tourney_id": 589,
+    "stack_size": 500,
+    "mean_chip_ev": 57.91,
+    "median_chip_ev": 14.02,
+    "std_chip_ev": 413.67,
+    "n_observations": 1227,
+    "has_variable_stacks": false
+  },
+  "590_500": {
+    "tourney_id": 590,
+    "stack_size": 500,
+    "mean_chip_ev": 22.75,
+    "median_chip_ev": -21.96,
+    "std_chip_ev": 378.72,
+    "n_observations": 9628,
+    "has_variable_stacks": false
+  },
+  "591_500": {
+    "tourney_id": 591,
+    "stack_size": 500,
+    "mean_chip_ev": 32.54,
+    "median_chip_ev": -12.19,
+    "std_chip_ev": 383.4,
+    "n_observations": 122962,
+    "has_variable_stacks": false
+  },
+  "592_500": {
+    "tourney_id": 592,
+    "stack_size": 500,
+    "mean_chip_ev": 28.73,
+    "median_chip_ev": -16.08,
+    "std_chip_ev": 377.03,
+    "n_observations": 180346,
+    "has_variable_stacks": false
+  },
+  "593_500": {
+    "tourney_id": 593,
+    "stack_size": 500,
+    "mean_chip_ev": 32.5,
+    "median_chip_ev": -13.28,
+    "std_chip_ev": 377.21,
+    "n_observations": 92605,
+    "has_variable_stacks": false
+  },
+  "594_500": {
+    "tourney_id": 594,
+    "stack_size": 500,
+    "mean_chip_ev": 42.59,
+    "median_chip_ev": -4.09,
+    "std_chip_ev": 380.5,
+    "n_observations": 81584,
+    "has_variable_stacks": false
+  },
+  "595_500": {
+    "tourney_id": 595,
+    "stack_size": 500,
+    "mean_chip_ev": 57.1,
+    "median_chip_ev": 9.43,
+    "std_chip_ev": 419.96,
+    "n_observations": 5606,
+    "has_variable_stacks": false
+  },
+  "596_500": {
+    "tourney_id": 596,
+    "stack_size": 500,
+    "mean_chip_ev": 93.07,
+    "median_chip_ev": 20.11,
+    "std_chip_ev": 424.56,
+    "n_observations": 1097,
+    "has_variable_stacks": false
+  },
+  "597_500": {
+    "tourney_id": 597,
+    "stack_size": 500,
+    "mean_chip_ev": -112.16,
+    "median_chip_ev": -123.01,
+    "std_chip_ev": 296.15,
+    "n_observations": 5,
+    "has_variable_stacks": false
+  },
+  "609_200": {
+    "tourney_id": 609,
+    "stack_size": 200,
+    "mean_chip_ev": 28.95,
+    "median_chip_ev": 18.72,
+    "std_chip_ev": 130.34,
+    "n_observations": 21307,
+    "has_variable_stacks": false
+  },
+  "611_200": {
+    "tourney_id": 611,
+    "stack_size": 200,
+    "mean_chip_ev": 15.26,
+    "median_chip_ev": 3.99,
+    "std_chip_ev": 126.84,
+    "n_observations": 326422,
+    "has_variable_stacks": false
+  },
+  "612_200": {
+    "tourney_id": 612,
+    "stack_size": 200,
+    "mean_chip_ev": 10.74,
+    "median_chip_ev": 0.25,
+    "std_chip_ev": 123.77,
+    "n_observations": 51041,
+    "has_variable_stacks": false
+  },
+  "638_500": {
+    "tourney_id": 638,
+    "stack_size": 500,
+    "mean_chip_ev": 39.16,
+    "median_chip_ev": -10.67,
+    "std_chip_ev": 400.77,
+    "n_observations": 121951,
+    "has_variable_stacks": false
+  },
+  "639_500": {
+    "tourney_id": 639,
+    "stack_size": 500,
+    "mean_chip_ev": 32.06,
+    "median_chip_ev": -24.6,
+    "std_chip_ev": 414.41,
+    "n_observations": 66573,
+    "has_variable_stacks": false
+  },
+  "641_500": {
+    "tourney_id": 641,
+    "stack_size": 500,
+    "mean_chip_ev": 28.78,
+    "median_chip_ev": -27.3,
+    "std_chip_ev": 409.85,
+    "n_observations": 76186,
+    "has_variable_stacks": false
+  },
+  "654_300": {
+    "tourney_id": 654,
+    "stack_size": 300,
+    "mean_chip_ev": -175.75,
+    "median_chip_ev": -155.39,
+    "std_chip_ev": 49.16,
+    "n_observations": 3,
+    "has_variable_stacks": true
+  },
+  "654_400": {
+    "tourney_id": 654,
+    "stack_size": 400,
+    "mean_chip_ev": 53.8,
+    "median_chip_ev": 53.8,
+    "std_chip_ev": 397.65,
+    "n_observations": 2,
+    "has_variable_stacks": true
+  },
+  "655_300": {
+    "tourney_id": 655,
+    "stack_size": 300,
+    "mean_chip_ev": 132.04,
+    "median_chip_ev": 58.63,
+    "std_chip_ev": 260.35,
+    "n_observations": 7,
+    "has_variable_stacks": true
+  },
+  "655_400": {
+    "tourney_id": 655,
+    "stack_size": 400,
+    "mean_chip_ev": 24.63,
+    "median_chip_ev": 24.63,
+    "std_chip_ev": 48.42,
+    "n_observations": 2,
+    "has_variable_stacks": true
+  },
+  "656_300": {
+    "tourney_id": 656,
+    "stack_size": 300,
+    "mean_chip_ev": 32.94,
+    "median_chip_ev": 6.53,
+    "std_chip_ev": 216.09,
+    "n_observations": 61101,
+    "has_variable_stacks": true
+  },
+  "656_400": {
+    "tourney_id": 656,
+    "stack_size": 400,
+    "mean_chip_ev": 47.44,
+    "median_chip_ev": -1.34,
+    "std_chip_ev": 327.44,
+    "n_observations": 8131,
+    "has_variable_stacks": true
+  },
+  "656_500": {
+    "tourney_id": 656,
+    "stack_size": 500,
+    "mean_chip_ev": 98.87,
+    "median_chip_ev": 31.19,
+    "std_chip_ev": 445.49,
+    "n_observations": 763,
+    "has_variable_stacks": true
+  },
+  "657_300": {
+    "tourney_id": 657,
+    "stack_size": 300,
+    "mean_chip_ev": 25.28,
+    "median_chip_ev": 0.35,
+    "std_chip_ev": 212.41,
+    "n_observations": 163882,
+    "has_variable_stacks": true
+  },
+  "657_400": {
+    "tourney_id": 657,
+    "stack_size": 400,
+    "mean_chip_ev": 40.57,
+    "median_chip_ev": -5.53,
+    "std_chip_ev": 320.59,
+    "n_observations": 21504,
+    "has_variable_stacks": true
+  },
+  "657_500": {
+    "tourney_id": 657,
+    "stack_size": 500,
+    "mean_chip_ev": 63.09,
+    "median_chip_ev": -18.82,
+    "std_chip_ev": 443.82,
+    "n_observations": 2071,
+    "has_variable_stacks": true
+  },
+  "658_300": {
+    "tourney_id": 658,
+    "stack_size": 300,
+    "mean_chip_ev": 19.84,
+    "median_chip_ev": -4.19,
+    "std_chip_ev": 213.32,
+    "n_observations": 68003,
+    "has_variable_stacks": true
+  },
+  "658_400": {
+    "tourney_id": 658,
+    "stack_size": 400,
+    "mean_chip_ev": 29.77,
+    "median_chip_ev": -14.82,
+    "std_chip_ev": 314.98,
+    "n_observations": 9063,
+    "has_variable_stacks": true
+  },
+  "658_500": {
+    "tourney_id": 658,
+    "stack_size": 500,
+    "mean_chip_ev": 58.21,
+    "median_chip_ev": -16.62,
+    "std_chip_ev": 443.29,
+    "n_observations": 852,
+    "has_variable_stacks": true
+  },
+  "659_300": {
+    "tourney_id": 659,
+    "stack_size": 300,
+    "mean_chip_ev": 15.25,
+    "median_chip_ev": -6.82,
+    "std_chip_ev": 207.05,
+    "n_observations": 67264,
+    "has_variable_stacks": true
+  },
+  "659_400": {
+    "tourney_id": 659,
+    "stack_size": 400,
+    "mean_chip_ev": 22.15,
+    "median_chip_ev": -22.73,
+    "std_chip_ev": 311.59,
+    "n_observations": 8732,
+    "has_variable_stacks": true
+  },
+  "659_500": {
+    "tourney_id": 659,
+    "stack_size": 500,
+    "mean_chip_ev": 54.1,
+    "median_chip_ev": -24.69,
+    "std_chip_ev": 428.35,
+    "n_observations": 861,
+    "has_variable_stacks": true
+  },
+  "660_300": {
+    "tourney_id": 660,
+    "stack_size": 300,
+    "mean_chip_ev": 16.71,
+    "median_chip_ev": -6.68,
+    "std_chip_ev": 209.63,
+    "n_observations": 50145,
+    "has_variable_stacks": true
+  },
+  "660_400": {
+    "tourney_id": 660,
+    "stack_size": 400,
+    "mean_chip_ev": 27.05,
+    "median_chip_ev": -19.34,
+    "std_chip_ev": 315.06,
+    "n_observations": 6613,
+    "has_variable_stacks": true
+  },
+  "660_500": {
+    "tourney_id": 660,
+    "stack_size": 500,
+    "mean_chip_ev": 47.83,
+    "median_chip_ev": -7.35,
+    "std_chip_ev": 422.47,
+    "n_observations": 644,
+    "has_variable_stacks": true
+  },
+  "661_300": {
+    "tourney_id": 661,
+    "stack_size": 300,
+    "mean_chip_ev": 11.6,
+    "median_chip_ev": -0.89,
+    "std_chip_ev": 216.63,
+    "n_observations": 952,
+    "has_variable_stacks": true
+  },
+  "661_400": {
+    "tourney_id": 661,
+    "stack_size": 400,
+    "mean_chip_ev": 4.56,
+    "median_chip_ev": -44.51,
+    "std_chip_ev": 367.64,
+    "n_observations": 119,
+    "has_variable_stacks": true
+  },
+  "661_500": {
+    "tourney_id": 661,
+    "stack_size": 500,
+    "mean_chip_ev": -67.41,
+    "median_chip_ev": -125.81,
+    "std_chip_ev": 499.56,
+    "n_observations": 8,
+    "has_variable_stacks": true
+  },
+  "662_500": {
+    "tourney_id": 662,
+    "stack_size": 500,
+    "mean_chip_ev": 81.13,
+    "median_chip_ev": 81.13,
+    "std_chip_ev": 821.84,
+    "n_observations": 2,
+    "has_variable_stacks": false
+  },
+  "663_500": {
+    "tourney_id": 663,
+    "stack_size": 500,
+    "mean_chip_ev": 73.78,
+    "median_chip_ev": 22.57,
+    "std_chip_ev": 398.18,
+    "n_observations": 678,
+    "has_variable_stacks": false
+  },
+  "664_500": {
+    "tourney_id": 664,
+    "stack_size": 500,
+    "mean_chip_ev": 67.44,
+    "median_chip_ev": 24.63,
+    "std_chip_ev": 387.82,
+    "n_observations": 257410,
+    "has_variable_stacks": false
+  },
+  "665_500": {
+    "tourney_id": 665,
+    "stack_size": 500,
+    "mean_chip_ev": 47.79,
+    "median_chip_ev": 4.69,
+    "std_chip_ev": 379.13,
+    "n_observations": 537582,
+    "has_variable_stacks": false
+  },
+  "666_500": {
+    "tourney_id": 666,
+    "stack_size": 500,
+    "mean_chip_ev": 40.13,
+    "median_chip_ev": -5.09,
+    "std_chip_ev": 381.4,
+    "n_observations": 715736,
+    "has_variable_stacks": false
+  },
+  "667_500": {
+    "tourney_id": 667,
+    "stack_size": 500,
+    "mean_chip_ev": 35.91,
+    "median_chip_ev": -10.02,
+    "std_chip_ev": 382.94,
+    "n_observations": 520029,
+    "has_variable_stacks": false
+  },
+  "668_500": {
+    "tourney_id": 668,
+    "stack_size": 500,
+    "mean_chip_ev": 30.95,
+    "median_chip_ev": -13.46,
+    "std_chip_ev": 377.33,
+    "n_observations": 238920,
+    "has_variable_stacks": false
+  },
+  "669_500": {
+    "tourney_id": 669,
+    "stack_size": 500,
+    "mean_chip_ev": 30.95,
+    "median_chip_ev": -13.86,
+    "std_chip_ev": 383.84,
+    "n_observations": 91561,
+    "has_variable_stacks": false
+  },
+  "672_200": {
+    "tourney_id": 672,
+    "stack_size": 200,
+    "mean_chip_ev": 19.44,
+    "median_chip_ev": 9.77,
+    "std_chip_ev": 123.75,
+    "n_observations": 132472,
+    "has_variable_stacks": false
+  },
+  "673_200": {
+    "tourney_id": 673,
+    "stack_size": 200,
+    "mean_chip_ev": 12.96,
+    "median_chip_ev": 1.51,
+    "std_chip_ev": 125.75,
+    "n_observations": 308396,
+    "has_variable_stacks": false
+  },
+  "674_500": {
+    "tourney_id": 674,
+    "stack_size": 500,
+    "mean_chip_ev": -22.4,
+    "median_chip_ev": -50.41,
+    "std_chip_ev": 373.81,
+    "n_observations": 84,
+    "has_variable_stacks": false
+  },
+  "677_300": {
+    "tourney_id": 677,
+    "stack_size": 300,
+    "mean_chip_ev": 30.6,
+    "median_chip_ev": 7.11,
+    "std_chip_ev": 211.8,
+    "n_observations": 15599,
+    "has_variable_stacks": true
+  },
+  "677_400": {
+    "tourney_id": 677,
+    "stack_size": 400,
+    "mean_chip_ev": 46.54,
+    "median_chip_ev": 8.46,
+    "std_chip_ev": 307.48,
+    "n_observations": 2134,
+    "has_variable_stacks": true
+  },
+  "677_500": {
+    "tourney_id": 677,
+    "stack_size": 500,
+    "mean_chip_ev": 93.97,
+    "median_chip_ev": 34.94,
+    "std_chip_ev": 421.94,
+    "n_observations": 228,
+    "has_variable_stacks": true
+  },
+  "678_300": {
+    "tourney_id": 678,
+    "stack_size": 300,
+    "mean_chip_ev": 23.55,
+    "median_chip_ev": 2.59,
+    "std_chip_ev": 206.69,
+    "n_observations": 65499,
+    "has_variable_stacks": true
+  },
+  "678_400": {
+    "tourney_id": 678,
+    "stack_size": 400,
+    "mean_chip_ev": 20.99,
+    "median_chip_ev": -17.51,
+    "std_chip_ev": 300.95,
+    "n_observations": 8515,
+    "has_variable_stacks": true
+  },
+  "678_500": {
+    "tourney_id": 678,
+    "stack_size": 500,
+    "mean_chip_ev": 47.71,
+    "median_chip_ev": 1.65,
+    "std_chip_ev": 408.51,
+    "n_observations": 798,
+    "has_variable_stacks": true
+  },
+  "679_300": {
+    "tourney_id": 679,
+    "stack_size": 300,
+    "mean_chip_ev": 24.57,
+    "median_chip_ev": 1.21,
+    "std_chip_ev": 212.8,
+    "n_observations": 206030,
+    "has_variable_stacks": true
+  },
+  "679_400": {
+    "tourney_id": 679,
+    "stack_size": 400,
+    "mean_chip_ev": 37.18,
+    "median_chip_ev": -3.15,
+    "std_chip_ev": 317.59,
+    "n_observations": 26989,
+    "has_variable_stacks": true
+  },
+  "679_500": {
+    "tourney_id": 679,
+    "stack_size": 500,
+    "mean_chip_ev": 61.93,
+    "median_chip_ev": 0.45,
+    "std_chip_ev": 431.94,
+    "n_observations": 2683,
+    "has_variable_stacks": true
+  },
+  "680_300": {
+    "tourney_id": 680,
+    "stack_size": 300,
+    "mean_chip_ev": 16.57,
+    "median_chip_ev": -5.49,
+    "std_chip_ev": 207.11,
+    "n_observations": 337484,
+    "has_variable_stacks": true
+  },
+  "680_400": {
+    "tourney_id": 680,
+    "stack_size": 400,
+    "mean_chip_ev": 25.17,
+    "median_chip_ev": -16.55,
+    "std_chip_ev": 313.05,
+    "n_observations": 44255,
+    "has_variable_stacks": true
+  },
+  "680_500": {
+    "tourney_id": 680,
+    "stack_size": 500,
+    "mean_chip_ev": 50.75,
+    "median_chip_ev": -1.89,
+    "std_chip_ev": 426.85,
+    "n_observations": 4281,
+    "has_variable_stacks": true
+  },
+  "681_300": {
+    "tourney_id": 681,
+    "stack_size": 300,
+    "mean_chip_ev": 12.32,
+    "median_chip_ev": -9.15,
+    "std_chip_ev": 204.37,
+    "n_observations": 320009,
+    "has_variable_stacks": true
+  },
+  "681_400": {
+    "tourney_id": 681,
+    "stack_size": 400,
+    "mean_chip_ev": 18.96,
+    "median_chip_ev": -20.42,
+    "std_chip_ev": 307.34,
+    "n_observations": 42133,
+    "has_variable_stacks": true
+  },
+  "681_500": {
+    "tourney_id": 681,
+    "stack_size": 500,
+    "mean_chip_ev": 22.8,
+    "median_chip_ev": -32.6,
+    "std_chip_ev": 407.26,
+    "n_observations": 3849,
+    "has_variable_stacks": true
+  },
+  "682_300": {
+    "tourney_id": 682,
+    "stack_size": 300,
+    "mean_chip_ev": 10.23,
+    "median_chip_ev": -12.03,
+    "std_chip_ev": 208.6,
+    "n_observations": 126297,
+    "has_variable_stacks": true
+  },
+  "682_400": {
+    "tourney_id": 682,
+    "stack_size": 400,
+    "mean_chip_ev": 21.76,
+    "median_chip_ev": -18.61,
+    "std_chip_ev": 315.43,
+    "n_observations": 16667,
+    "has_variable_stacks": true
+  },
+  "682_500": {
+    "tourney_id": 682,
+    "stack_size": 500,
+    "mean_chip_ev": 22.61,
+    "median_chip_ev": -42.55,
+    "std_chip_ev": 423.94,
+    "n_observations": 1481,
+    "has_variable_stacks": true
+  },
+  "683_300": {
+    "tourney_id": 683,
+    "stack_size": 300,
+    "mean_chip_ev": 10.15,
+    "median_chip_ev": -10.34,
+    "std_chip_ev": 205.14,
+    "n_observations": 118873,
+    "has_variable_stacks": true
+  },
+  "683_400": {
+    "tourney_id": 683,
+    "stack_size": 400,
+    "mean_chip_ev": 12.27,
+    "median_chip_ev": -28.16,
+    "std_chip_ev": 309.28,
+    "n_observations": 15854,
+    "has_variable_stacks": true
+  },
+  "683_500": {
+    "tourney_id": 683,
+    "stack_size": 500,
+    "mean_chip_ev": 12.77,
+    "median_chip_ev": -40.08,
+    "std_chip_ev": 403.91,
+    "n_observations": 1513,
+    "has_variable_stacks": true
+  },
+  "684_300": {
+    "tourney_id": 684,
+    "stack_size": 300,
+    "mean_chip_ev": 13.44,
+    "median_chip_ev": -7.78,
+    "std_chip_ev": 205.74,
+    "n_observations": 18296,
+    "has_variable_stacks": true
+  },
+  "684_400": {
+    "tourney_id": 684,
+    "stack_size": 400,
+    "mean_chip_ev": 18.8,
+    "median_chip_ev": -11.41,
+    "std_chip_ev": 303.15,
+    "n_observations": 2445,
+    "has_variable_stacks": true
+  },
+  "684_500": {
+    "tourney_id": 684,
+    "stack_size": 500,
+    "mean_chip_ev": -2.85,
+    "median_chip_ev": -69.53,
+    "std_chip_ev": 397.36,
+    "n_observations": 252,
+    "has_variable_stacks": true
+  },
+  "685_300": {
+    "tourney_id": 685,
+    "stack_size": 300,
+    "mean_chip_ev": 15.21,
+    "median_chip_ev": -10.32,
+    "std_chip_ev": 209.95,
+    "n_observations": 1695,
+    "has_variable_stacks": true
+  },
+  "685_400": {
+    "tourney_id": 685,
+    "stack_size": 400,
+    "mean_chip_ev": 19.18,
+    "median_chip_ev": -10.35,
+    "std_chip_ev": 294.34,
+    "n_observations": 217,
+    "has_variable_stacks": true
+  },
+  "685_500": {
+    "tourney_id": 685,
+    "stack_size": 500,
+    "mean_chip_ev": -74.24,
+    "median_chip_ev": -217.3,
+    "std_chip_ev": 497.39,
+    "n_observations": 21,
+    "has_variable_stacks": true
+  },
+  "686_300": {
+    "tourney_id": 686,
+    "stack_size": 300,
+    "mean_chip_ev": 9.49,
+    "median_chip_ev": -12.38,
+    "std_chip_ev": 208.38,
+    "n_observations": 704,
+    "has_variable_stacks": true
+  },
+  "686_400": {
+    "tourney_id": 686,
+    "stack_size": 400,
+    "mean_chip_ev": 6.41,
+    "median_chip_ev": -35.25,
+    "std_chip_ev": 293.7,
+    "n_observations": 78,
+    "has_variable_stacks": true
+  },
+  "686_500": {
+    "tourney_id": 686,
+    "stack_size": 500,
+    "mean_chip_ev": -239.45,
+    "median_chip_ev": -287.67,
+    "std_chip_ev": 382.06,
+    "n_observations": 4,
+    "has_variable_stacks": true
+  },
+  "695_200": {
+    "tourney_id": 695,
+    "stack_size": 200,
+    "mean_chip_ev": -58.32,
+    "median_chip_ev": -83.97,
+    "std_chip_ev": 156.09,
+    "n_observations": 3,
+    "has_variable_stacks": false
+  },
+  "696_200": {
+    "tourney_id": 696,
+    "stack_size": 200,
+    "mean_chip_ev": 26.3,
+    "median_chip_ev": 26.3,
+    "std_chip_ev": 17.43,
+    "n_observations": 2,
+    "has_variable_stacks": false
+  },
+  "697_200": {
+    "tourney_id": 697,
+    "stack_size": 200,
+    "mean_chip_ev": -74.61,
+    "median_chip_ev": -74.61,
+    "std_chip_ev": 0.0,
+    "n_observations": 1,
+    "has_variable_stacks": false
+  }
+}
